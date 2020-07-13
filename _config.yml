@@ -2,6 +2,9 @@
 # Set theme
 remote_theme: daviddarnes/alembic
 
+sass:
+    sass_dir: ./_scss
+
 # File excludes
 exclude:
 - README.md
@@ -20,11 +23,12 @@ plugins:
 - jemoji
 - jekyll-remote-theme
 
+
 # Site settings
-url: 'https://lake-lab.github.io/'
+url: 'https://bit1029public.github.io/'
 baseurl: ''
-title: 'Human & Machine Learning Lab'
-description: 'A research group at New York University'
+title: '1029 Deep Reinforcement Learning Lab'
+description: 'A research group at Beijing Institute of Technology'
 permalink: pretty
 logo: "/images/logo.jpg"
 
