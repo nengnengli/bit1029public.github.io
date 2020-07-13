@@ -6,7 +6,7 @@ collectionpage: home
 
 ##### About Our Group
 
-
+<br />
 
 Following the stunning success of AlphaGo, Deep Reinforcement Learning (RL) combining deep learning and conventional reinforcement learning has emerged as one of the most competitive approaches for learning in sequential decision making problems. Besides, Deep Reinforcement Learning always links with advanced Mechine Learning theory, optimization theory and statistical theory, which set a higher request to the researchers in this field.
 
