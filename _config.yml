@@ -2,8 +2,8 @@
 # Set theme
 remote_theme: daviddarnes/alembic
 
-sass:
-    sass_dir: ./_scss
+#sass:
+#    sass_dir: ./_scss
 
 # File excludes
 exclude:
