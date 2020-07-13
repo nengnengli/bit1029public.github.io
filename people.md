@@ -25,6 +25,7 @@ collectionpage: pages
 <br>
 
 <img src="/images/bios/hyZang.jpg" style="zoom:50%;" />
+
 **Hongyu Zang**. Hongyu Zang is a first-year Ph.D. student in Computer Science at Beijing Institute of Technology. He received his B.Sc. degree in Computer Science from Beijing Forestry University. Hongyu's research focuses on Reinforcement Learning combining with Bayesian modeling, approximate inference and information bottleneck. His work aims to develop statistical models for analysing the reliability of Reinforcement Learning algorithms and use the information theory to explain the performance of RL algorithms. 
 
 ##### M.S. and undergraduate students
@@ -45,7 +46,7 @@ collectionpage: pages
 
 ##### Group alumni
 
-
+<br>
 
 - **Pengfei Zhu**. Former M.Sc. student, now working at Alibaba.
 
@@ -55,7 +56,7 @@ collectionpage: pages
 
 ##### Collaborators
 
-
+<br>
 
 - **William K. Cheung**. Associate Professor and Head in the Computer Science Department, Hong Kong Baptist University. [[Website]](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=william)
 
