@@ -23,7 +23,7 @@ plugins:
 # Site settings
 url: 'https://bit1029public.github.io/'
 baseurl: ''
-title: '1029 Deep Reinforcement Learning Group'
+title: '1029 DRL Group'
 description: 'A research group at Beijing Institute of Technology'
 permalink: pretty
 logo: "/images/logo.jpg"
