@@ -4,9 +4,9 @@ layout: page
 collectionpage: home
 ---
 
-##### Deep Reinforcement Learning
+##### About Our Group
 
-Nowadays（Deep）Reinforcement Learning get lots of attention. We are studying the ......
+Followed the stunning success of AlphaGo, Deep Reinforcement Learning (RL) combining deep learning and conventional reinforcement learning has emerged as one of the most competitive approaches for learning in sequential decision making problems. Driven/Inspired by many talented researchers, our **1029DRL** Group (led by [A/Prof. Xin Li]) keep studying the emerging (Deep) RL algorithms published in the top conferences, and try to develop our own to contribute to the RL community. We devote to developing a more explainable/sample-efficient/training-efficient/robust (D)RL algorithm with its application to single/multi-player games, robotics and healthcare. 
 
 
 
@@ -16,5 +16,3 @@ Nowadays（Deep）Reinforcement Learning get lots of attention. We are studying 
 - **11/2019:** The lab presents one paper named ... at Arxiv.
 - 
 
-##### About the lab
-In 20.., [A/Prof. Xin Li] started the **1029DRL** Group at BIT. We are located in the ... . We are also part of the ..., the larger BIT AI group known as the , and the    community at BIT.
