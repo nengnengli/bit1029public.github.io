@@ -6,7 +6,7 @@ collectionpage: home
 
 ##### Deep Reinforcement Learning
 
-Nowadays Deep Reinforcement Learning get lots of attention. We are studying the ......
+Nowadays（Deep）Reinforcement Learning get lots of attention. We are studying the ......
 
 
 
@@ -17,4 +17,4 @@ Nowadays Deep Reinforcement Learning get lots of attention. We are studying the 
 - 
 
 ##### About the lab
-In 20.., [Prof. XinLi]() started the **1029DRL** Lab at BIT. We are located in the ... . We are also part of the ..., the larger BIT AI group known as the , and the    community at BIT.
+In 20.., [A/Prof. Xin Li] started the **1029DRL** Group at BIT. We are located in the ... . We are also part of the ..., the larger BIT AI group known as the , and the    community at BIT.
