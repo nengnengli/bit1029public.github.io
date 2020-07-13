@@ -3,28 +3,32 @@ title: Publications
 layout: page
 collectionpage: pages
 ---
-Lab publications by year: [Preprints](#preprints), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017).
 
----
+
+
+#### RL
+
+##### Conference
+
+- <a href="https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangL.10191.pdf">L. Zhang , X. Li, S. Chen, H. Y. Zang, J. Huang, M. Z. Wang,  "Universal Value Iteration Networks: When Spatially-invariant is Not Universal."</a> <em>AAAI 2020</em>
+- X. W. Wang, X. Li, L. L. Lai, "On Improving the Learning of Long-Term historical Information for Tasks with Partial Observability," IEEE International Conference on Data Science in Cyberspace: Big Data and Business Analytics, 2020.
 
 ##### Preprints
 
 - 
 
-
 ---
 
-##### 2020
+##### Representation Learning and Other
+
+##### Conference
 
 - 
 
-
----
-
-##### 2019
+##### Preprints
 
 - 
-
+- 
 
 ---
 

@@ -15,29 +15,50 @@ collectionpage: pages
 
 ##### Principal investigator
 <br>
-<img class="bio" src="/images/bios/brenden-lake-cropped.png">
-**Brenden Lake.** Brenden is an Assistant Professor of Psychology and Data Science at New York University, and a Research Scientist at Facebook AI Research. He received his M.S. and B.S. in Symbolic Systems from Stanford University in 2009, and his Ph.D. in Cognitive Science from MIT in 2014. He was a postdoctoral Data Science Fellow at NYU from 2014-2017. Brenden's research focuses on computational problems that are easier for people than they are for machines, such as learning new concepts, compositional generalization, and question asking. [[Website]](https://cims.nyu.edu/~brenden/)
+![XinLi](D:\学习\programe\rl\blog\bit1029public.github.io\images\bios\XinLi.png)
+
+**Xin Li**.  Xin Li is currently an Associate Professor in the School of Computer Science at Beijing Institute of Technology, China.  She received the B.Sc. and M.Sc. degrees in Computer Science from Jilin University  China, and the Ph.D. degree in Computer Science at Hong Kong Baptist University. Her research focuses on the development of algorithms for  (deep) reinforcement learning, network representation learning,  with application to Single/Multi-player Games, Robotics, Network Alignment and Recommender Systems. [[Website]](http://cs.bit.edu.cn/szdw/jsml/js/lixin/index.htm)
 
 
 
 ##### Ph.D. students
 <br>
-<img class="bio" src="/images/bios/reuben-feinman.jpg">
-**Reuben Feinman.** Reuben is a third-year Ph.D. student in Neural Science at New York University and a Google Ph.D. Fellow in Computational Neuroscience. He received his Sc.B. in Applied Mathematics from Brown University in 2015, capping years of coursework in pattern theory and related disciplines. Reuben’s research focuses on the neural mechanisms of efficient concept learning. Combining techniques from neural networks, Bayesian modeling and approximate inference, his work aims to develop statistical models of human perception and learning that capture critical ingredients from cognitive science and that help tie the gap between symbolic and sub-symbolic theories of cognition. [[Website]](https://guydavidson.me/)
+
+<img src="D:\学习\programe\rl\blog\bit1029public.github.io\images\bios\hyZang.jpg" alt="hyZang" style="zoom:50%;" />
+**Hongyu Zang**. Hongyu Zang is a first-year Ph.D. student in Computer Science at Beijing Institute of Technology. He received his B.Sc. degree in Computer Science from Beijing Forestry University. Hongyu's research focuses on Reinforcement Learning combining with Bayesian modeling, approximate inference and information bottleneck. His work aims to develop statistical models for analysing the reliability of Reinforcement Learning algorithms and use the information theory to explain the performance of RL algorithms. 
 
 ##### M.S. and undergraduate students
 <br>
-<img class="bio" src="/images/bios/kanishk-gandhi.jpeg">
-**Kanishk Gandhi**. I am a first year Master's student at New York University and a Morse Fellow at the Department of Electrical Engineering. My current research with Prof. Lake focuses on designing Reinforcement Learning agents to think and learn more like humans do. I am broadly interested in utilizing concepts in the cognitive sciences to improve contemporary deep learning algorithms. I have completed my undergraduate from IIT Kanpur majoring in Electrical Engineering with a minor in AI. In the past I have worked on natural language generation and predicting video watching patterns of people. I have also been part of a couple of interesting startup projects including LucidLaw (A legal research startup). [[Website]](https://kanishkg.github.io/)
 
-<img class="bio" src="/images/bios/ziyun-wang.jpg">
-**Ziyun Wang**. Ziyun is a first-year MS student at the Computer Science Department of NYU. He received his Bachelor’s degree in Computer Science and Technology at Tsinghua University, China, where he had worked on research projects about language generation and information extraction for two years. Ziyun is broadly interested in discovering the potentials and limitations of state-of-the-art deep neural models, and advancing language utilization ability of machines. In the belief that the key for better AI lies in the field of cognitive science, he is especially interested in taking inspirations from how humans utilize natural languages, and developing more powerful machine learning models. [[Website]](http://ziyunwang.me/)
+**Xinwen Wang**. Wang Xinwen is a master at the School of Computer Science, Beijing Institute of Technology. He received a bachelor's degree at Beijing Information Science Technology University. He focuses on deep reinforcement learning and partially observable reinforcement learning. He is now working for Microsoft(China).
 
-<img class="bio" src="/images/bios/vaibhav-gupta-cropped.jpg">
-**Vaibhav Gupta**. Vaibhav is a second-year MSCS student at the Courant Institute, NYU. His work with the lab is broadly aimed at using deep learning techniques to model how learning takes place in humans. He is especially interested in exploring the use of self-supervised deep learning for vision based tasks. Prior to this he has worked with Amazon, in various domains including Big Data Analytics and Web-Dev.
 
-<img class="bio" src="/images/bios/alexa-tartaglini.jpg">
-**Alexa Tartaglini**. I am a third-year student in computer science and mathematics at the New York University Courant Institute of Mathematical Sciences. I am interested in comparing the mechanisms of human and machine intelligence, especially with regards to cognitive tasks that are difficult for computers to perform such as category and concept learning, object recognition, and commonsense reasoning. I am particularly interested in the role of shape in human category representation and the relationship between learning and reasoning.
+**Li Zhang.** 
 
-##### Lab alumni
-- [Anselm Rothe](https://anselmrothe.github.io/). Former Ph.D. student (co-advised with Todd Gureckis), now postdoc at the Max Planck Institute.
+
+**Jie Huang**. Jie Huang is a second-year master of computer science at Beijing Institute of Technology and a bachelor's degree in computer science from Beijing Institute of Technology. His research focuses on imitation learning and inverse reinforcement learning. His work aims to apply imitation learning or inverse reinforcement learning algorithms to robot control fields.
+
+
+ **Shuqi Yang**.
+
+
+
+##### Group alumni
+
+<br>
+
+- **Pengfei Zhu**. Former M.Sc. student, now working at Alibaba.
+
+- **Guanghui Miao**. Former M.Sc. student, now working at Xiaohongshu.
+
+
+
+##### Collaborators
+
+<br>
+
+- **William K. Cheung**. Associate Professor and Head in the Computer Science Department, Hong Kong Baptist University. [[Website]](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=william)
+
+- **Pascal Poupart**. Professor & Canada CIFAR AI Chair at the Vector Institute Artificial Intelligence, Machine Learning, Health Informatics Waterloo AI Institute David R. Cheriton School of Computer Science University of Waterloo. [[Website]](https://cs.uwaterloo.ca/~ppoupart/)
+
+- **Ivor W Tsang**. ARC Future Fellow,  Professor of Artificial Intelligence, at University of Technology Sydney(UTS). [[Website]](https://www.uts.edu.au/staff/ivor.tsang)

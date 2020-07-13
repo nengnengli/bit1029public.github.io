@@ -2,17 +2,45 @@
 title: Research
 layout: page
 collectionpage: pages
+
 ---
 
-Our lab aims to understand the computational basis of intelligence. What makes people smarter than machines?  How can we build machines that learn and think in more human-like ways?
+<style type="text/css">
+.fig {
+  display: block;
+  margin-left: 20px;
+  float: right;
+}
+</style>
 
-<img src="/images/battleship-bw.jpg" width="650">
+Read about our current projects on
+[Inverse Reinforcement Learning](#Inverse Reinforcement Learning),
+,
 
-There have been remarkable recent advances in machine learning and AI. Computers have beaten Jeopardy champions, defeated Go masters, driven autonomous cars, and shattered records for object and speech recognition. Progress has been impressive, yet today's AI provides nothing like the general purpose intelligence that we have as humans. 
-Human minds solve a diverse array of computational problems that stump the best machines: learning new concepts, learning new tasks, understanding scenes, compositional learning, asking questions, forming explanations, amongst many others. Machines also struggle to simulate other facets of human intelligence, including creativity, curiosity, self-assessment, and commonsense reasoning.
+and ....
 
-**We study human cognitive abilities that elude the smartest machines.** Almost by definition, these domains are important pursuits for both cognitive science and data science. In cognitive science, if people have abilities that existing algorithms do not, we must understand their computational basis. In data science and machine learning, these distinctively human abilities are both important open problems as well as opportunities to reverse-engineer the human solutions.
+---
 
-Our work demands a combination of cognitive modeling, behavioral experiments, and machine learning research. Through this interdisciplinary approach, our work has revealed key cognitive ingredients that people use but are missing in contemporary machine learning. It has also led to new data science and machine learning techniques inspired by the cognitive solutions to difficult computational problems.
+##### **Inverse Reinforcement Learning**
 
-See the [Projects page](/projects/) for examples of our current research directions.
+_Key people: Jie Huang_
+
+Inverse Reinforcement Learning is mainly for complex tasks where the reward function is difficult to formulate. We hope that this method can find an efficient and reliable reward function. We assume that when an expert completes a task, his decision is often optimal or close to optimal. When the cumulative reward function expectations of all policies are not greater than the cumulative return expectations of expert policies, the corresponding reward function is the reward function learned according to the expert demonstrations.
+
+In general, the inverse reinforcement learning is to learn the reward function from the expert demonstrations, which can be understood as explaining the expert policy with the reward function we learned.When learning policies based on optimal sequence samples is needed, we can combine reverse reinforcement learning and deep learning to improve the accuracy of the reward function and the effect of the policy.
+
+Our work is to use the imitation learning algorithm or inverse reinforcement learning algorithm to solve related complex tasks, and apply it to the robot (Figure 1 below) and its simulation environment (Figure 2 below), so that it can be learned using the training set demonstrated by the experts and get the Same effect as expert .
+
+<img src="/images/projects/dogbot.jpg" style="zoom:50%;" />
+
+<img src="/images/projects/dogbot2.jpg" style="zoom:58%;" />
+
+---
+
+##### Compositional generalization in minds and machines
+
+_Key people: ..._
+
+People make compositional generalizations in language, thought, and action. Once a person learns how to "photobomb" she immediately understands how to "photobomb twice" or "photobomb vigorously." 
+
+- <a href="https://cims.nyu.edu/~brenden/papers/2003.05161.pdf">Ruis, L., Andreas, J., Baroni, M. Bouchacourt, D., and Lake, B. M. (2020). A Benchmark for Systematic Generalization in Grounded Language Understanding</a>. Preprint available on <em>arXiv:2003.05161.</em>

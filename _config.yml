@@ -40,8 +40,6 @@ navigation_header:
   url: /research/
 - title: People
   url: /people/
-- title: Projects
-  url: /projects/
 - title: Publications
   url: /publications/
 # - title: Blog
