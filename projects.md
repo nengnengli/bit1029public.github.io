@@ -11,22 +11,25 @@ collectionpage: pages
 }
 </style>
 Read about our current projects on
-[concept learning](#concept-learning-in-minds-and-machines),
-[compositional generalization](#compositional-generalization-in-minds-and-machines),
-[video game learning](#video-game-learning-in-minds-and-machines),
-and [question asking](#question-asking-in-minds-and-machines).
+[Inverse Reinforcement Learning](#Inverse Reinforcement Learning),
+,
+
+and ....
 
 ---
 
-##### Concept learning in minds and machines
-_Key people: ..._
+##### **Inverse Reinforcement Learning**
+_Key people: Jie Huang_
 
-Human conceptual representations are rich in structural and statistical knowledge. Symbolic models excel at capturing compositional and causal structure, but they struggle to model the most complex correlations found in raw data. In contrast, neural network models excel at processing raw stimuli and capturing complex statistics, but they struggle to model compositional and causal knowledge. The human mind seems to transcend this dichotomy: learning structural and statistical knowledge from raw inputs.
+Inverse Reinforcement Learning is mainly for complex tasks where the reward function is difficult to formulate. We hope that this method can find an efficient and reliable reward function. We assume that when an expert completes a task, his decision is often optimal or close to optimal. When the cumulative reward function expectations of all policies are not greater than the cumulative return expectations of expert policies, the corresponding reward function is the reward function learned according to the expert demonstrations.
 
-<img class="fig" src="/images/projects/fig-gns.jpg" width="300">
-We are developing neuro-symbolic models that learn compositional and causal generative programs from raw data, while using neural sub-routines for powerful statistical modeling (see diagram). We aim to better understand the dual structural and statistical natures of human concepts, and to learn neuro-symbolic representations for machine learning applications.
+In general, the inverse reinforcement learning is to learn the reward function from the expert demonstrations, which can be understood as explaining the expert policy with the reward function we learned.When learning policies based on optimal sequence samples is needed, we can combine reverse reinforcement learning and deep learning to improve the accuracy of the reward function and the effect of the policy.
 
-- <a href="https://cims.nyu.edu/~brenden/papers/2006.14448.pdf">Feinman, R. and Lake, B. M. (2020). Learning Task-General Representations with Generative Neuro-Symbolic Modeling.</a> Preprint available on <em>arXiv:2006.14448</em>.
+Our work is to use the imitation learning algorithm or inverse reinforcement learning algorithm to solve related complex tasks, and apply it to the robot (Figure 1 below) and its simulation environment (Figure 2 below), so that it can be learned using the training set demonstrated by the experts and get the Same effect as expert .
+
+<img src=".\images\projects\dogbot.jpg" alt="dogbot" style="zoom:50%;" />
+
+<img src="D:\学习\programe\rl\blog\bit1029public.github.io\images\projects\dogbot2.jpg" alt="dogbot2" style="zoom:58%;" />
 
 ---
 
