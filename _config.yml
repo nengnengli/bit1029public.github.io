@@ -23,7 +23,7 @@ plugins:
 # Site settings
 url: 'https://bit1029public.github.io/'
 baseurl: ''
-title: '1029 Deep Reinforcement Learning Lab'
+title: '1029 Deep Reinforcement Learning Group'
 description: 'A research group at Beijing Institute of Technology'
 permalink: pretty
 logo: "/images/logo.jpg"
@@ -58,7 +58,7 @@ navigation_footer:
 collections:
   home:
     feature_text: |
-      ## 1029 Deep Reinforcement Learning Lab
+      ## 1029 Deep Reinforcement Learning Group @
       Beijing Institute of Technology
       <br>
       <br>
