@@ -1,5 +1,5 @@
 ---
-# title: Understanding Intelligence
+# title:Deep Reinforcement Learning 
 layout: page
 collectionpage: home
 ---

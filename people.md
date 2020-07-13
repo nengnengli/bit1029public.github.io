@@ -23,7 +23,7 @@ collectionpage: pages
 ##### Ph.D. students
 <br>
 <img class="bio" src="/images/bios/reuben-feinman.jpg">
-**Reuben Feinman.** Reuben is a third-year Ph.D. student in Neural Science at New York University and a Google Ph.D. Fellow in Computational Neuroscience. He received his Sc.B. in Applied Mathematics from Brown University in 2015, capping years of coursework in pattern theory and related disciplines. Reuben’s research focuses on the neural mechanisms of efficient concept learning. Combining techniques from neural networks, Bayesian modeling and approximate inference, his work aims to develop statistical models of human perception and learning that capture critical ingredients from cognitive science and that help tie the gap between symbolic and sub-symbolic theories of cognition. [Website](https://guydavidson.me/)
+**Reuben Feinman.** Reuben is a third-year Ph.D. student in Neural Science at New York University and a Google Ph.D. Fellow in Computational Neuroscience. He received his Sc.B. in Applied Mathematics from Brown University in 2015, capping years of coursework in pattern theory and related disciplines. Reuben’s research focuses on the neural mechanisms of efficient concept learning. Combining techniques from neural networks, Bayesian modeling and approximate inference, his work aims to develop statistical models of human perception and learning that capture critical ingredients from cognitive science and that help tie the gap between symbolic and sub-symbolic theories of cognition. [[Website]](https://guydavidson.me/)
 
 ##### M.S. and undergraduate students
 <br>
