@@ -48,9 +48,11 @@ collectionpage: pages
 
 <br>
 
-- **Pengfei Zhu**. Former M.Sc. student, now working at Alibaba.
+**Pengfei Zhu**. Former M.Sc. student, now working at Alibaba.
 
-- **Guanghui Miao**. Former M.Sc. student, now working at Xiaohongshu.
+
+
+**Guanghui Miao**. Former M.Sc. student, now working at Xiaohongshu.
 
 
 
@@ -58,8 +60,12 @@ collectionpage: pages
 
 <br>
 
-- **William K. Cheung**. Associate Professor and Head in the Computer Science Department, Hong Kong Baptist University. [[Website]](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=william)
+**William K. Cheung**. Associate Professor and Head in the Computer Science Department, Hong Kong Baptist University. [[Website]](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=william)
 
-- **Pascal Poupart**. Professor & Canada CIFAR AI Chair at the Vector Institute Artificial Intelligence, Machine Learning, Health Informatics Waterloo AI Institute David R. Cheriton School of Computer Science University of Waterloo. [[Website]](https://cs.uwaterloo.ca/~ppoupart/)
 
-- **Ivor W Tsang**. ARC Future Fellow,  Professor of Artificial Intelligence, at University of Technology Sydney(UTS). [[Website]](https://www.uts.edu.au/staff/ivor.tsang)
+
+**Pascal Poupart**. Professor & Canada CIFAR AI Chair at the Vector Institute Artificial Intelligence, Machine Learning, Health Informatics Waterloo AI Institute David R. Cheriton School of Computer Science University of Waterloo. [[Website]](https://cs.uwaterloo.ca/~ppoupart/)
+
+
+
+**Ivor W Tsang**. ARC Future Fellow,  Professor of Artificial Intelligence, at University of Technology Sydney(UTS). [[Website]](https://www.uts.edu.au/staff/ivor.tsang)
