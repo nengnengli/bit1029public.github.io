@@ -27,9 +27,9 @@ In general, the inverse reinforcement learning is to learn the reward function f
 
 Our work is to use the imitation learning algorithm or inverse reinforcement learning algorithm to solve related complex tasks, and apply it to the robot (Figure 1 below) and its simulation environment (Figure 2 below), so that it can be learned using the training set demonstrated by the experts and get the Same effect as expert .
 
-<img src=".\images\projects\dogbot.jpg" alt="dogbot" style="zoom:50%;" />
+<img src="/images/projects/dogbot.jpg" style="zoom:50%;" />
 
-<img src="D:\学习\programe\rl\blog\bit1029public.github.io\images\projects\dogbot2.jpg" alt="dogbot2" style="zoom:58%;" />
+<img src="/images/projects/dogbot2.jpg" style="zoom:58%;" />
 
 ---
 
