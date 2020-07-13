@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Set theme
 remote_theme: daviddarnes/alembic
 
@@ -71,3 +72,6 @@ collections:
     title: Blog
     output: true
     description: "Read about the latest research from HMLL"
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 4947208e43dc4552a3a8e09407cde929c8f1279d
