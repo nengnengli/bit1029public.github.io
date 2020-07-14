@@ -29,7 +29,7 @@ collectionpage: pages
 ##### M.S. and undergraduate students
 <br>
 
-**Xinwen Wang**. <p style="text-align:justify"> Xinwen is a master at the School of Computer Science, Beijing Institute of Technology. He mainly focuses on （deep） reinforcement learning under partially observable environment. He will soon join Microsoft(China) after 6 months internship.</p>
+**Xinwen Wang**. Xinwen is a master at the School of Computer Science, Beijing Institute of Technology. He mainly focuses on （deep） reinforcement learning under partially observable environment. He will soon join Microsoft(China) after 6 months internship.
 
 
 <img class="bio" src="/images/bios/chensen.jpeg" float="left" clear="both" align="left" width="120">**Sen Chen**.  Sen Chen is a second-year graduate student in the Department of BIT computer Science. He focuses on partially observable reinforcement learning. He is also interested in agents building models of the environment in a human intelligent way, such as object recognition, concept learning and commonsense reasoning in the environment.
