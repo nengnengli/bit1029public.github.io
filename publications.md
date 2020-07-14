@@ -12,7 +12,7 @@ collectionpage: pages
 
 -  L. Zhang , X. Li, etc.  <a href="https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangL.10191.pdf"> "Universal Value Iteration Networks: When Spatially-invariant is Not Universal."</a> <em>AAAI 2020</em>
 -  X. W. Wang, X. Li, etc. "On Improving the Learning of Long-Term historical Information for Tasks with Partial Observability," IEEE International Conference on Data Science in Cyberspace: Big Data and Business Analytics, 2020.
--  Pengfei Zhu, Xin Li, Pascal Poupart, “On Improving Deep Reinforcement Learning for POMDPs ”. CoRR abs/1704.07978(2017) . Source Code：https://github.com/bit1029public/ADRQN
+-  Pengfei Zhu, Xin Li, Pascal Poupart, “On Improving Deep Reinforcement Learning for POMDPs ”. CoRR abs/1704.07978(2017).
 -  Xin Li, William K. Cheung, Jiming Liu, "Improving POMDP’s Tractability Via Belief Compression and Clustering", IEEE Transaction on Systems, Man and Cybernetics – Part B 40(1):125-136 Feb, 2010
 -  Xin Li, William K. Cheung, Jiming Liu, Zhili Wu, “A Novel Orthogonal NMF-Based Belief Compression for POMDPs”, in Proceedings of 24th International Conference on Machine Learning (ICML), Pages: 537 -544 Corvallis, OR, US, 2007.
 
