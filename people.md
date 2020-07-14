@@ -13,7 +13,7 @@ collectionpage: pages
 }
 </style>
 
-##### Principal investigator
+##### Principal supervisor
 <br>
 <!---![XinLi](/images/bios/XinLi.png)--->
 
