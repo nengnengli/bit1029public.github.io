@@ -17,7 +17,7 @@ collectionpage: pages
 <br>
 <!---![XinLi](/images/bios/XinLi.png)--->
 
-<img class="bio" src="/images/bios/XinLi.png" float="left" clear="both" align="left" width="120"> <p style="text-align:justify;"> **Xin Li**. Xin is currently an Associate Professor in the School of Computer Science at Beijing Institute of Technology, China.  She received the B.Sc. and M.Sc. degrees in Computer Science from Jilin University  China, and the Ph.D. degree in Computer Science at Hong Kong Baptist University. Her research focuses on the development of algorithms for  (deep) reinforcement learning, network representation learning,  with application to Single/Multi-player Games, Robotics, Network Alignment and Recommender Systems. [[Website]](http://cs.bit.edu.cn/szdw/jsml/js/lixin/index.htm) </p>
+<img class="bio" src="/images/bios/XinLi.png" float="left" clear="both" align="left" width="120"> **Xin Li**. Xin is currently an Associate Professor in the School of Computer Science at Beijing Institute of Technology, China.  She received the B.Sc. and M.Sc. degrees in Computer Science from Jilin University  China, and the Ph.D. degree in Computer Science at Hong Kong Baptist University. Her research focuses on the development of algorithms for  (deep) reinforcement learning, network representation learning,  with application to Single/Multi-player Games, Robotics, Network Alignment and Recommender Systems. [[Website]](http://cs.bit.edu.cn/szdw/jsml/js/lixin/index.htm)
 
 
 
@@ -31,11 +31,15 @@ collectionpage: pages
 
 <img class="bio" src="/images/bios/Zli.jpeg" float="left" clear="both" align="left" width="120">**Xinwen Wang**. Xinwen is a master at the School of Computer Science, Beijing Institute of Technology. He mainly focuses on （deep） reinforcement learning under partially observable environment. He will soon join Microsoft(China) after 6 months internship.
 
+
 <img class="bio" src="/images/bios/chensen.jpeg" float="left" clear="both" align="left" width="120">**Sen Chen**.  Sen Chen is a second-year graduate student in the Department of BIT computer Science. He focuses on partially observable reinforcement learning. He is also interested in agents building models of the environment in a human intelligent way, such as object recognition, concept learning and commonsense reasoning in the environment.
+
 
 <img class="bio" src="/images/bios/huangjie.jpeg" float="left" clear="both" align="left" width="120">**Jie Huang**. Jie is a second-year M.S. student in computer science at Beijing Institute of Technology and a bachelor's degree in computer science from Beijing Institute of Technology. His research focuses on imitation learning and inverse reinforcement learning. His work aims to apply imitation learning or inverse reinforcement learning algorithms to robot control fields.
 
+
 <img class="bio" src="/images/bios/Zli.jpeg" float="left" clear="both" align="left" width="120">**Li Zhang.** Li is a third-year M.S. student in Computer Science at Beijing Instite of Technology, from which he also recevived his B.Sc. degree. Li's research interest includes model-free learning, model-based planning, their combination in both of reinforcement learning and imitation learning, partially observability, hierarchical DRL and multi-agent DRL. His work aims to build powerful, interpretable, verifiable, efficient, stable and reliable DRL methods, making DRL more pratical.
+
 
 <img class="bio" src="/images/bios/shuqi.jpeg" float="left" clear="both" align="left" width="120">**Shuqi Yang**. Shuqi is a first-year Master's student  at the School of Computer Science, Beijing Institute of Technology. He received his Bachelor's degree in Computer Science and Technology at Zhengzhou University. His research focuses on partially observable deep reinforcement learning.
 
