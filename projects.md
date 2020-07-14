@@ -29,7 +29,7 @@ Our work is to use the imitation learning algorithm or inverse reinforcement lea
 
 <img src="/images/projects/dogbot.jpg" style="zoom:50%;" />
 
-<img src="/images/projects/dogbot2.jpg" style="zoom:58%;" />
+<img src="/images/projects/dogbot2.jpg" style="zoom:57%;" />
 
 ---
 
