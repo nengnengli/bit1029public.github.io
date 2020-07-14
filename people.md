@@ -29,16 +29,15 @@ collectionpage: pages
 ##### M.S. and undergraduate students
 <br>
 
-**Xinwen Wang**. Wang Xinwen is a master at the School of Computer Science, Beijing Institute of Technology. He received a bachelor's degree at Beijing Information Science Technology University. He focuses on deep reinforcement learning and partially observable reinforcement learning. He is now working for Microsoft(China).
+**Xinwen Wang**. Xinwen is a master at the School of Computer Science, Beijing Institute of Technology. He mainly focuses on （deep） reinforcement learning under partially observable environment. He will soon join Microsoft(China) after 6 months internship.
 
+**Sen Chen**.  Sen is 
 
-**Li Zhang.** 
+**Jie Huang**. Jie is a second-year master student of computer science at Beijing Institute of Technology and a bachelor's degree in computer science from Beijing Institute of Technology. His research focuses on imitation learning and inverse reinforcement learning. His work aims to apply imitation learning or inverse reinforcement learning algorithms to robot control fields.
 
+**Li Zhang.** Li is working on 
 
-**Jie Huang**. Jie Huang is a second-year master of computer science at Beijing Institute of Technology and a bachelor's degree in computer science from Beijing Institute of Technology. His research focuses on imitation learning and inverse reinforcement learning. His work aims to apply imitation learning or inverse reinforcement learning algorithms to robot control fields.
-
-
- **Shuqi Yang**.
+**Shuqi Yang**. Shuqi is working on 
 
 
 
@@ -49,23 +48,22 @@ collectionpage: pages
 **Pengfei Zhu**. Former M.Sc. student, now working at Alibaba.
 
 
-
 **Guanghui Miao**. Former M.Sc. student, now working at Xiaohongshu.
 
 
 
 ##### Collaborators
 
-<br>
+<br> We are proud to have collaborative work with esteemed researchers in ML/RL fields.  
 
-**William K. Cheung**. Associate Professor and Head in the Computer Science Department, Hong Kong Baptist University. [[Website]](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=william)
-
-
-
-**Pascal Poupart**. Professor & Canada CIFAR AI Chair at the Vector Institute Artificial Intelligence, Machine Learning, Health Informatics Waterloo AI Institute David R. Cheriton School of Computer Science University of Waterloo. [[Website]](https://cs.uwaterloo.ca/~ppoupart/)
+**William K. Cheung**. Associate Professor and Head in the Computer Science Department, Hong Kong Baptist University, Hong Kong, China. [[Website]](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=william)
 
 
+**Pascal Poupart**. Professor & Canada CIFAR AI Chair at the Vector Institute Artificial Intelligence, Machine Learning, Health Informatics Waterloo AI Institute David R. Cheriton School of Computer Science University of Waterloo, Canada. [[Website]](https://cs.uwaterloo.ca/~ppoupart/)
 
-**Ivor W Tsang**. ARC Future Fellow, Professor of Artificial Intelligence, at University of Technology Sydney(UTS). [[Website]](https://www.uts.edu.au/staff/ivor.tsang)
 
-**Mingzhong Wang**. Lecturer in ICT （Faculty of Arts and Business)，at University of the Sunshine Coast, Australia.  
+**Ivor W Tsang**. ARC Future Fellow, Professor of Artificial Intelligence, University of Technology Sydney(UTS), Australia. [[Website]](https://www.uts.edu.au/staff/ivor.tsang)
+
+**Mingzhong Wang**. Lecturer in ICT （Faculty of Arts and Business)，University of the Sunshine Coast, Australia. [Website]]（https://www.usc.edu.au/staff/dr-mingzhong-wang） 
+
+**Our DRL group is also working with renowned company's AI group towards more real-world applications, e.g., 育碧 UbiSoft(China), 达闼 CloudMinds(Shenzhen). ** 
