@@ -8,7 +8,7 @@ collectionpage: home
 
 <br />
 
-Following the stunning success of AlphaGo, Deep Reinforcement Learning (RL) combining deep learning and conventional reinforcement learning has emerged as one of the most competitive approaches for learning in sequential decision making problems. It links with the advanced machine learning theory, optimization theory and statistical theory, which sets a complex task for the students who are interested in this field.
+Following the stunning success of AlphaGo, Deep Reinforcement Learning (DRL) combining deep learning and conventional reinforcement learning has emerged as one of the most competitive approaches for learning in sequential decision making problems. It links with the advanced machine learning theory, optimization theory and statistical theory, which sets a complex task for the students who are interested in this field.
 
 Driven/inspired by many talented researchers, our **1029DRL** Group (led by [礼欣老师](http://cs.bit.edu.cn/szdw/jsml/js/lixin/index.htm) [A/Prof. Xin Li](https://scholar.google.com/citations?user=CpIQOm0AAAAJ&hl=en&authuser=1)) keeps investigating the emerging DRL algorithms published in the top conferences, aiming to develop our own to contribute to the RL community. We devote to developing a more explainable/sample-efficient/training-efficient/robust (D)RL algorithm with applications to single/multi-player games, robotics and healthcare.
 
