@@ -36,6 +36,7 @@ collectionpage: pages
 **Jie Huang**. Jie is a second-year M.S. student in computer science at Beijing Institute of Technology and a bachelor's degree in computer science from Beijing Institute of Technology. His research focuses on imitation learning and inverse reinforcement learning. His work aims to apply imitation learning or inverse reinforcement learning algorithms to robot control fields.
 
 <img class="bio" src="/images/bios/Zli.jpeg" float="left" clear="both" align="left" width="120">**Li Zhang.** Li is a third-year M.S. student in Computer Science at Beijing Instite of Technology, from which he also recevived his B.Sc. degree. Li's research interest includes model-free learning, model-based planning, their combination in both of reinforcement learning and imitation learning, partially observability, hierarchical DRL and multi-agent DRL. His work aims to build powerful, interpretable, verifiable, efficient, stable and reliable DRL methods, making DRL more pratical.
+
 **Shuqi Yang**. Shuqi is working on 
 
 
