@@ -64,9 +64,9 @@ _Key people: Jie Huang_
 
 <p style="text-align:justify;">Our work is to use the imitation learning algorithm or inverse reinforcement learning algorithm to solve related complex tasks, and apply it to the robot (Figure 1 below) and its simulation environment (Figure 2 below), so that it can be learned using the training set demonstrated by the experts and get the Same effect as expert. </p>
 
-<img src="/images/projects/dogbot.jpg" style="zoom:50%;" />
+<div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/projects/dogbot.jpg" height="100"/></div>
 
-<img src="/images/projects/dogbot2.jpg" style="zoom:57%;" />
+<div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/projects/dogbot2.jpg" height="100"/></div>
 
 ##### **UQMDP-net**
 _Key people: Shuqi Yang_
@@ -77,14 +77,6 @@ _Key people: Shuqi Yang_
 
 <p style="text-align:justify;">We have designed two types of maze navigation tasks (spatially-invariant POMDPs, spatially-variant POMDPs) to evaluate the UQMDP-net. the UQMDP-net achieved similar performance to the baseline method (QMDP-net) on spatially-invariant tasks, and performed significantly better than baseline on spatially-variant tasks.</p>
 
-<img src="/images/uqmdp.png" />
+<div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/uqmdp.png" height="100"/></div>
 
----
 
-##### Compositional generalization in minds and machines
-
-_Key people: ..._
-
-<p style="text-align:justify;">People make compositional generalizations in language, thought, and action. Once a person learns how to "photobomb" she immediately understands how to "photobomb twice" or "photobomb vigorously." </p>
-
-- <a href="https://cims.nyu.edu/~brenden/papers/2003.05161.pdf">Ruis, L., Andreas, J., Baroni, M. Bouchacourt, D., and Lake, B. M. (2020). A Benchmark for Systematic Generalization in Grounded Language Understanding</a>. Preprint available on <em>arXiv:2003.05161.</em>
