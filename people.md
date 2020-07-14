@@ -65,7 +65,7 @@ collectionpage: pages
 <p style="text-align:justify;"><strong>Pascal Poupart</strong>. Professor & Canada CIFAR AI Chair at the Vector Institute Artificial Intelligence, Machine Learning, Health Informatics Waterloo AI Institute David R. Cheriton School of Computer Science University of Waterloo, Canada. <a href="https://cs.uwaterloo.ca/~ppoupart/">[Website]</a></p>
 
 
-<p style="text-align:justify;"><strong>Ivor W Tsang</strong>. ARC Future Fellow, Professor of Artificial Intelligence, University of Technology Sydney(UTS), Australia.  <a href="https://www.uts.edu.au/staff/ivor.tsang">[Website]</a></p>
+<p style="text-align:justify;"><strong>Ivor W. Tsang</strong>. ARC Future Fellow, Professor of Artificial Intelligence, University of Technology Sydney(UTS), Australia.  <a href="https://www.uts.edu.au/staff/ivor.tsang">[Website]</a></p>
 
 <p style="text-align:justify;"><strong>Mingzhong Wang</strong>. Lecturer in ICT （Faculty of Arts and Business)，University of the Sunshine Coast, Australia. <a href="https://www.usc.edu.au/staff/dr-mingzhong-wang">[Website]</a></p>
 
