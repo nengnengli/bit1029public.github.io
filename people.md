@@ -46,7 +46,7 @@ collectionpage: pages
 
 <br>
 
-<p style="text-align:justify;"><strong>Xinwen Wang</strong>. Xinwen worked on （deep） reinforcement learning under partially observable environment. He will soon join Microsoft(China) after 6 months internship.</p>
+<p style="text-align:justify;"><strong>Xinwen Wang</strong>. Xinwen worked on (deep) reinforcement learning under partially observable environment. He will soon join Microsoft(China) after 6 months internship.</p>
 
 <p style="text-align:justify;"><strong>Pengfei Zhu</strong>. Former M.Sc. student, now working at Alibaba.</p>
 
