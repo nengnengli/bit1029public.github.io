@@ -5,7 +5,7 @@ collectionpage: pages
 ---
 
 <style type="text/css">
-.bio {
+.bio{
   display: block;
   margin-right: 20px;
   float: left;
@@ -24,7 +24,7 @@ collectionpage: pages
 ##### Ph.D. students
 <br>
 
-<img src="/images/bios/hyZang.jpg" style="zoom:50%;" />
+<img class="bio" src="/images/bios/hyZang.jpg" style="zoom:50%;" />
 
 **Hongyu Zang**. Hongyu Zang is a first-year Ph.D. student in Computer Science at Beijing Institute of Technology. He received his B.Sc. degree in Computer Science from Beijing Forestry University. Hongyu's research focuses on Reinforcement Learning combining with Bayesian modeling, approximate inference and information bottleneck. His work aims to develop statistical models for analysing the reliability of Reinforcement Learning algorithms and use the information theory to explain the performance of RL algorithms. 
 
@@ -68,4 +68,6 @@ collectionpage: pages
 
 
 
-**Ivor W Tsang**. ARC Future Fellow,  Professor of Artificial Intelligence, at University of Technology Sydney(UTS). [[Website]](https://www.uts.edu.au/staff/ivor.tsang)
+**Ivor W Tsang**. ARC Future Fellow, Professor of Artificial Intelligence, at University of Technology Sydney(UTS). [[Website]](https://www.uts.edu.au/staff/ivor.tsang)
+
+**Mingzhong Wang**. Lecturer in ICT （Faculty of Arts and Business)，at University of the Sunshine Coast, Australia.  
