@@ -16,15 +16,18 @@ collectionpage: pages
 ##### Principal investigator
 <br>
 <!---![XinLi](/images/bios/XinLi.png)--->
+<img class="bio" src="/images/bios/XinLi.png">
 
-<img src="/images/bios/XinLi.png" float="left" clear="both" align="left" width="120">**Xin Li**.  Xin Li is currently an Associate Professor in the School of Computer Science at Beijing Institute of Technology, China.  She received the B.Sc. and M.Sc. degrees in Computer Science from Jilin University  China, and the Ph.D. degree in Computer Science at Hong Kong Baptist University. Her research focuses on the development of algorithms for  (deep) reinforcement learning, network representation learning,  with application to Single/Multi-player Games, Robotics, Network Alignment and Recommender Systems. [[Website]](http://cs.bit.edu.cn/szdw/jsml/js/lixin/index.htm)
+**Xin Li**.  Xin Li is currently an Associate Professor in the School of Computer Science at Beijing Institute of Technology, China.  She received the B.Sc. and M.Sc. degrees in Computer Science from Jilin University  China, and the Ph.D. degree in Computer Science at Hong Kong Baptist University. Her research focuses on the development of algorithms for  (deep) reinforcement learning, network representation learning,  with application to Single/Multi-player Games, Robotics, Network Alignment and Recommender Systems. [[Website]](http://cs.bit.edu.cn/szdw/jsml/js/lixin/index.htm)
 
 
 
 ##### Ph.D. students
 <br>
 
-<img class="bio" src="/images/bios/hyZang.jpg" float="left" clear="both" align="left" width="120">**Hongyu Zang**. Hongyu Zang is a first-year Ph.D. student in Computer Science at Beijing Institute of Technology. He received his B.Sc. degree in Computer Science from Beijing Forestry University. Hongyu's research focuses on Reinforcement Learning combining with Bayesian modeling, approximate inference and information bottleneck. His work aims to develop statistical models for analysing the reliability of Reinforcement Learning algorithms and use the information theory to explain the performance of RL algorithms.  
+<img class="bio" src="/images/bios/hyZang.jpg">
+
+**Hongyu Zang**. Hongyu Zang is a first-year Ph.D. student in Computer Science at Beijing Institute of Technology. He received his B.Sc. degree in Computer Science from Beijing Forestry University. Hongyu's research focuses on Reinforcement Learning combining with Bayesian modeling, approximate inference and information bottleneck. His work aims to develop statistical models for analysing the reliability of Reinforcement Learning algorithms and use the information theory to explain the performance of RL algorithms.  
 
 ##### M.S. and undergraduate students
 <br>
