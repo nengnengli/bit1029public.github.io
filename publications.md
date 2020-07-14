@@ -6,7 +6,7 @@ collectionpage: pages
 
 <br>
 
-#### Deep Reiforcement Learning
+#### (Deep) Reiforcement Learning
 
 <br>
 
@@ -19,7 +19,7 @@ collectionpage: pages
 
 ---
 
-##### Representation Learning and Others
+##### Representation Learning and More
 
 <br>
 
