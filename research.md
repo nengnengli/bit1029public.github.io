@@ -67,9 +67,9 @@ _Key people: Jie Huang_
 
 <p style="text-align:justify;">Our work is to use the imitation learning algorithm or inverse reinforcement learning algorithm to solve related complex tasks, and apply it to the robot (Figure 1 below) and its simulation environment (Figure 2 below), so that it can be learned using the training set demonstrated by the experts and get the Same effect as expert. </p>
 
-<div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/projects/dogbot.jpg" height="100"/></div>
+<img src="/images/projects/dogbot.jpg" width="264"/>
 
-<div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/projects/dogbot2.jpg" height="100"/></div>
+<img src="/images/projects/dogbot2.jpg" width="295"/>
 
 
 
