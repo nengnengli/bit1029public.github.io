@@ -24,45 +24,45 @@ and ....
 ##### **DRL agent in Rabbids: 100% win rate against human-players**
 _Key people: Li Zhang_
 
-In the cooperation of our lab and [Ubisoft](https://www.ubisoft.com), we designed a novel DRL framework and applied it to train agents in Rabbids: Journey To The West, a party game of [Rabbids series](https://en.wikipedia.org/wiki/Raving_Rabbids), which is a famous title presented by Ubisoft.
+<p style="text-align:justify;">In the cooperation of our lab and [Ubisoft](https://www.ubisoft.com), we designed a novel DRL framework and applied it to train agents in Rabbids: Journey To The West, a party game of [Rabbids series](https://en.wikipedia.org/wiki/Raving_Rabbids), which is a famous title presented by Ubisoft.</p>
 
-<div style="float:left;border:solid 1px 000;margin:20px;"><img src="images/co.png" height="100"></div>
-<div style="float:left;border:solid 1px 000;margin:20px;"><img src="images/rabbids.gif" height="100"></div>
+<div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/co.png" height="100"></div>
+<div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/rabbids.gif" height="100"></div>
 <div style="float:none;clear:both;"></div>
 
-To test our agents, we organized some competitions, in which three human-players formed a team and collaborated to compete with a single agent trained by our method. This event attract many people to join, but no team beat our agent, yielding a 100% win rate of our agent.
+<p style="text-align:justify;">To test our agents, we organized some competitions, in which three human-players formed a team and collaborated to compete with a single agent trained by our method. This event attract many people to join, but no team beat our agent, yielding a 100% win rate of our agent.</p>
 
 ##### **UVIN: An Universal DRL Method to Combine Planning and Learning**
 _Key people: Li Zhang_
 
-Most existing DRL approaches focus on leveraging the deep neural network structure to approximate the value function via a trial-and-error learning process, but insufficiently address explicit planning computation as in the conventional model-based approaches. We proposed Universal Value Iteration Networks (UVIN) to combine model-free learning and model-based planning in common RL setting to improve long-term reasoning and inference.
+<p style="text-align:justify;">Most existing DRL approaches focus on leveraging the deep neural network structure to approximate the value function via a trial-and-error learning process, but insufficiently address explicit planning computation as in the conventional model-based approaches. We proposed Universal Value Iteration Networks (UVIN) to combine model-free learning and model-based planning in common RL setting to improve long-term reasoning and inference.</p>
 
-<div style="float:left;border:solid 1px 000;margin:20px;"><img src="images/minecraft.gif" height="100"></div>
-<div style="float:left;border:solid 1px 000;margin:20px;"><img src="images/maze.png" height="100"></div>
+<div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/minecraft.gif" height="100"></div>
+<div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/maze.png" height="100"></div>
 <div style="float:none;clear:both;"></div>
 
-[Minecraft](https://www.minecraft.net) is a popular sandbox video game that allows players to explore, gather, and craft in a 3D world. To collect the desired items in the inventory, players need to plan whether to search for or synthesize a new item, and how. Thus, Minecraft is a typical problem requiring long-term reasoning. UVIN significantly outperforms other state-of-the-art approaches ([GPPN](https://arxiv.org/abs/1806.06408), [GVIN](https://arxiv.org/abs/1706.02416), [VIN](https://arxiv.org/abs/1602.02867), [Rainbow](https://arxiv.org/abs/1710.02298)) in Minecraft and some variants of maze navigation we introduced. UVIN has been accepted as a conference [paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangL.10191.pdf) by AAAI-2020.
+<p style="text-align:justify;">[Minecraft](https://www.minecraft.net) is a popular sandbox video game that allows players to explore, gather, and craft in a 3D world. To collect the desired items in the inventory, players need to plan whether to search for or synthesize a new item, and how. Thus, Minecraft is a typical problem requiring long-term reasoning. UVIN significantly outperforms other state-of-the-art approaches ([GPPN](https://arxiv.org/abs/1806.06408), [GVIN](https://arxiv.org/abs/1706.02416), [VIN](https://arxiv.org/abs/1602.02867), [Rainbow](https://arxiv.org/abs/1710.02298)) in Minecraft and some variants of maze navigation we introduced. UVIN has been accepted as a conference [paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangL.10191.pdf) by AAAI-2020.</p>
 
 ##### **ADRQN: On Improving Deep Reinforcement Learning for POMDPs**
 _Key people: Pengfei Zhu_
 
-Most of Deep Reinforcement Learning (DRL) methods focus on Markov Decision Process (MDP). Partially Observable Markov Decision Process (POMDP) is an extension of MDP, it can naturally model planning tasks with uncertain action effects and partial state observability, but finding an optimal policy is notoriously difficult. Inspired by belief state update based on Bayes’ theorem, we proposed Action-specific Deep Recurrent Q-Network (ADRQN) to improve DRL in POMDP. 
+<p style="text-align:justify;">Most of Deep Reinforcement Learning (DRL) methods focus on Markov Decision Process (MDP). Partially Observable Markov Decision Process (POMDP) is an extension of MDP, it can naturally model planning tasks with uncertain action effects and partial state observability, but finding an optimal policy is notoriously difficult. Inspired by belief state update based on Bayes’ theorem, we proposed Action-specific Deep Recurrent Q-Network (ADRQN) to improve DRL in POMDP. </p>
 
-<div style="float:left;border:solid 1px 000;margin:20px;"><img src="images/atari.gif" height="100"></div>
-<div style="float:left;border:solid 1px 000;margin:20px;"><img src="images/doom.gif" height="100"></div>
+<div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/atari.gif" height="100"></div>
+<div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/doom.gif" height="100"></div>
 <div style="float:none;clear:both;"></div>
 
-[Atari 2600](https://en.wikipedia.org/wiki/Atari_2600) is a classical video game set and is used as benchmark tasks in many DRL research. We evaluated ADRQN in a flickering version of Atari, which obscuring the entire screen with a certain probability at each time step. Further more, a 3D video game [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) is also used to evaluate our model. ADRQN achieves better performance than baseline methods ([DQN](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf), [DRQN](https://arxiv.org/abs/1507.06527), [DDRQN](https://arxiv.org/abs/1602.02672)) in flickering Atari and Doom. The citations of [ADRQN paper](https://arxiv.org/pdf/1704.07978.pdf) are up to 30 now.
+<p style="text-align:justify;">[Atari 2600](https://en.wikipedia.org/wiki/Atari_2600) is a classical video game set and is used as benchmark tasks in many DRL research. We evaluated ADRQN in a flickering version of Atari, which obscuring the entire screen with a certain probability at each time step. Further more, a 3D video game [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) is also used to evaluate our model. ADRQN achieves better performance than baseline methods ([DQN](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf), [DRQN](https://arxiv.org/abs/1507.06527), [DDRQN](https://arxiv.org/abs/1602.02672)) in flickering Atari and Doom. The citations of [ADRQN paper](https://arxiv.org/pdf/1704.07978.pdf) are up to 30 now.</p>
 
 ##### **Inverse Reinforcement Learning**
 
 _Key people: Jie Huang_
 
-Inverse Reinforcement Learning is mainly for complex tasks where the reward function is difficult to formulate. We hope that this method can find an efficient and reliable reward function. We assume that when an expert completes a task, his decision is often optimal or close to optimal. When the cumulative reward function expectations of all policies are not greater than the cumulative return expectations of expert policies, the corresponding reward function is the reward function learned according to the expert demonstrations. </br>
+<p style="text-align:justify;">Inverse Reinforcement Learning is mainly for complex tasks where the reward function is difficult to formulate. We hope that this method can find an efficient and reliable reward function. We assume that when an expert completes a task, his decision is often optimal or close to optimal. When the cumulative reward function expectations of all policies are not greater than the cumulative return expectations of expert policies, the corresponding reward function is the reward function learned according to the expert demonstrations. </p>
 
-In general, the inverse reinforcement learning is to learn the reward function from the expert demonstrations, which can be understood as explaining the expert policy with the reward function we learned.When learning policies based on optimal sequence samples is needed, we can combine reverse reinforcement learning and deep learning to improve the accuracy of the reward function and the effect of the policy. </br>
+<p style="text-align:justify;">In general, the inverse reinforcement learning is to learn the reward function from the expert demonstrations, which can be understood as explaining the expert policy with the reward function we learned.When learning policies based on optimal sequence samples is needed, we can combine reverse reinforcement learning and deep learning to improve the accuracy of the reward function and the effect of the policy. </p>
 
-Our work is to use the imitation learning algorithm or inverse reinforcement learning algorithm to solve related complex tasks, and apply it to the robot (Figure 1 below) and its simulation environment (Figure 2 below), so that it can be learned using the training set demonstrated by the experts and get the Same effect as expert. </br>
+<p style="text-align:justify;">Our work is to use the imitation learning algorithm or inverse reinforcement learning algorithm to solve related complex tasks, and apply it to the robot (Figure 1 below) and its simulation environment (Figure 2 below), so that it can be learned using the training set demonstrated by the experts and get the Same effect as expert. </p>
 
 <img src="/images/projects/dogbot.jpg" style="zoom:50%;" />
 
@@ -74,6 +74,6 @@ Our work is to use the imitation learning algorithm or inverse reinforcement lea
 
 _Key people: ..._
 
-People make compositional generalizations in language, thought, and action. Once a person learns how to "photobomb" she immediately understands how to "photobomb twice" or "photobomb vigorously." 
+<p style="text-align:justify;">People make compositional generalizations in language, thought, and action. Once a person learns how to "photobomb" she immediately understands how to "photobomb twice" or "photobomb vigorously." </p>
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2003.05161.pdf">Ruis, L., Andreas, J., Baroni, M. Bouchacourt, D., and Lake, B. M. (2020). A Benchmark for Systematic Generalization in Grounded Language Understanding</a>. Preprint available on <em>arXiv:2003.05161.</em>
