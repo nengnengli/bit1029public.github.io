@@ -17,7 +17,7 @@ collectionpage: pages
 <br>
 <!---![XinLi](/images/bios/XinLi.png)--->
 
-<img class="bio" src="/images/bios/XinLi.png" float="left" clear="both" align="left" width="120">**Xin Li**.  <p style="text-align:justify;">Xin Li is currently an Associate Professor in the School of Computer Science at Beijing Institute of Technology, China.  She received the B.Sc. and M.Sc. degrees in Computer Science from Jilin University  China, and the Ph.D. degree in Computer Science at Hong Kong Baptist University. Her research focuses on the development of algorithms for  (deep) reinforcement learning, network representation learning,  with application to Single/Multi-player Games, Robotics, Network Alignment and Recommender Systems. [[Website]](http://cs.bit.edu.cn/szdw/jsml/js/lixin/index.htm)</p >
+<img class="bio" src="/images/bios/XinLi.png" float="left" clear="both" align="left" width="120"> <p style="text-align:justify;"> **Xin Li**. Xin Li is currently an Associate Professor in the School of Computer Science at Beijing Institute of Technology, China.  She received the B.Sc. and M.Sc. degrees in Computer Science from Jilin University  China, and the Ph.D. degree in Computer Science at Hong Kong Baptist University. Her research focuses on the development of algorithms for  (deep) reinforcement learning, network representation learning,  with application to Single/Multi-player Games, Robotics, Network Alignment and Recommender Systems. [[Website]](http://cs.bit.edu.cn/szdw/jsml/js/lixin/index.htm)</p >
 
 
 
