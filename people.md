@@ -10,7 +10,6 @@ collectionpage: pages
   margin-right: 20px;
   float: left;
   width: 150px;
-  height:100px;
 }
 </style>
 
