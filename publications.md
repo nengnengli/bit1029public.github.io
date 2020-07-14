@@ -23,7 +23,7 @@ collectionpage: pages
 
 <br>
 
-<p style="text-align:justify;">P.S. we have another group led by A/Prof. Xin Li working on data mining, (deep) representation learning with applications to healthcare, social network analysis and recommender systems. We are also recruiting students to join us every year. For more details, please go to <a href="http://cs.bit.edu.cn/szdw/jsml/js/lixin/index.htm" > Xin's homepage@BIT </a>.  Here's our selected publications.  </p>
+<p style="text-align:justify;">P.S. we have another group led by A/Prof. Xin Li working on data mining, (deep) representation learning with applications to healthcare, social network analysis and recommender systems. We are also recruiting students to work on the related fields every year. For more details, please go to <a href="http://cs.bit.edu.cn/szdw/jsml/js/lixin/index.htm" > Xin's homepage@BIT </a>.  Here's our selected publications.  </p>
 
 - <p style="text-align:justify;">Rui Ye, Xin Li, et al. “A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment”, in Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI), Pages:4135-4141, Aug., 2019, Macao, China.</p>
 
