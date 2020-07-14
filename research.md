@@ -24,7 +24,7 @@ and ....
 ##### **DRL agent in Rabbids: 100% win rate against human-players**
 _Key people: Li Zhang_
 
-<p style="text-align:justify;">In the cooperation of our lab and [Ubisoft](https://www.ubisoft.com), we designed a novel DRL framework and applied it to train agents in Rabbids: Journey To The West, a party game of [Rabbids series](https://en.wikipedia.org/wiki/Raving_Rabbids), which is a famous title presented by Ubisoft.</p>
+<p style="text-align:justify;">In the cooperation of our lab and <a href="https://www.ubisoft.com">Ubisoft</a>, we designed a novel DRL framework and applied it to train agents in Rabbids: Journey To The West, a party game of <a href="https://en.wikipedia.org/wiki/Raving_Rabbids">Rabbids series</a>, which is a famous title presented by Ubisoft.</p>
 
 <div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/co.png" height="100"></div>
 <div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/rabbids.gif" height="100"></div>
@@ -41,7 +41,7 @@ _Key people: Li Zhang_
 <div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/maze.png" height="100"></div>
 <div style="float:none;clear:both;"></div>
 
-<p style="text-align:justify;">[Minecraft](https://www.minecraft.net) is a popular sandbox video game that allows players to explore, gather, and craft in a 3D world. To collect the desired items in the inventory, players need to plan whether to search for or synthesize a new item, and how. Thus, Minecraft is a typical problem requiring long-term reasoning. UVIN significantly outperforms other state-of-the-art approaches ([GPPN](https://arxiv.org/abs/1806.06408), [GVIN](https://arxiv.org/abs/1706.02416), [VIN](https://arxiv.org/abs/1602.02867), [Rainbow](https://arxiv.org/abs/1710.02298)) in Minecraft and some variants of maze navigation we introduced. UVIN has been accepted as a conference [paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangL.10191.pdf) by AAAI-2020.</p>
+<p style="text-align:justify;"><a href="https://www.minecraft.net">Minecraft</a> is a popular sandbox video game that allows players to explore, gather, and craft in a 3D world. To collect the desired items in the inventory, players need to plan whether to search for or synthesize a new item, and how. Thus, Minecraft is a typical problem requiring long-term reasoning. UVIN significantly outperforms other state-of-the-art approaches (<a href="https://arxiv.org/abs/1806.06408">GPPN</a>, <a href="https://arxiv.org/abs/1706.02416">GVIN</a>, <a href="https://arxiv.org/abs/1602.02867">VIN</a>, <a href="https://arxiv.org/abs/1710.02298">Rainbow</a>) in Minecraft and some variants of maze navigation we introduced. UVIN has been accepted as a conference <a href="https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangL.10191.pdf">paper</a> by AAAI-2020.</p>
 
 ##### **ADRQN: On Improving Deep Reinforcement Learning for POMDPs**
 _Key people: Pengfei Zhu_
@@ -52,7 +52,7 @@ _Key people: Pengfei Zhu_
 <div style="float:left;border:solid 1px 000;margin:20px;"><img src="/images/doom.gif" height="100"></div>
 <div style="float:none;clear:both;"></div>
 
-<p style="text-align:justify;">[Atari 2600](https://en.wikipedia.org/wiki/Atari_2600) is a classical video game set and is used as benchmark tasks in many DRL research. We evaluated ADRQN in a flickering version of Atari, which obscuring the entire screen with a certain probability at each time step. Further more, a 3D video game [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) is also used to evaluate our model. ADRQN achieves better performance than baseline methods ([DQN](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf), [DRQN](https://arxiv.org/abs/1507.06527), [DDRQN](https://arxiv.org/abs/1602.02672)) in flickering Atari and Doom. The citations of [ADRQN paper](https://arxiv.org/pdf/1704.07978.pdf) are up to 30 now.</p>
+<p style="text-align:justify;"><a href="https://en.wikipedia.org/wiki/Atari_2600">Atari 2600</a> is a classical video game set and is used as benchmark tasks in many DRL research. We evaluated ADRQN in a flickering version of Atari, which obscuring the entire screen with a certain probability at each time step. Further more, a 3D video game <a href="https://en.wikipedia.org/wiki/Doom_(1993_video_game)">Doom</a> is also used to evaluate our model. ADRQN achieves better performance than baseline methods (<a href="https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf">DQN</a>, <a href="https://arxiv.org/abs/1507.06527">DRQN</a>, <a href="https://arxiv.org/abs/1602.02672">DDRQN</a>) in flickering Atari and Doom. The citations of <a href="https://arxiv.org/pdf/1704.07978.pdf">ADRQN paper</a> are up to 30 now.</p>
 
 ##### **Inverse Reinforcement Learning**
 
