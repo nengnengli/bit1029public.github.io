@@ -25,7 +25,7 @@ collectionpage: pages
 ##### Ph.D. students
 <br>
 
-<img class="bio" src="/images/bios/hyZang.jpg" style="zoom:50%;" />
+<img class="bio" src="/images/bios/hyZang.jpg" />
 
 **Hongyu Zang**. Hongyu Zang is a first-year Ph.D. student in Computer Science at Beijing Institute of Technology. He received his B.Sc. degree in Computer Science from Beijing Forestry University. Hongyu's research focuses on Reinforcement Learning combining with Bayesian modeling, approximate inference and information bottleneck. His work aims to develop statistical models for analysing the reliability of Reinforcement Learning algorithms and use the information theory to explain the performance of RL algorithms. 
 
