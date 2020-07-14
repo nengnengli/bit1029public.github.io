@@ -21,8 +21,38 @@ and ....
 
 ---
 
-##### **Rabbids AI**
-test
+##### **DRL agent in Rabbids: 100% win rate against human-players**
+_Key people: Li Zhang_
+
+In the cooperation of our lab and [Ubisoft](https://www.ubisoft.com), we designed a novel DRL framework and applied it to train agents in Rabbids: Journey To The West, a party game of [Rabbids series](https://en.wikipedia.org/wiki/Raving_Rabbids), which is a famous title presented by Ubisoft.
+
+<div style="float:left;border:solid 1px 000;margin:20px;"><img src="images/co.png" height="100"></div>
+<div style="float:left;border:solid 1px 000;margin:20px;"><img src="images/rabbids.gif" height="100"></div>
+<div style="float:none;clear:both;"></div>
+
+To test our agents, we organized some competitions, in which three human-players formed a team and collaborated to compete with a single agent trained by our method. This event attract many people to join, but no team beat our agent, yielding a 100% win rate of our agent.
+
+##### **UVIN: An Universal DRL Method to Combine Planning and Learning**
+_Key people: Li Zhang_
+
+Most existing DRL approaches focus on leveraging the deep neural network structure to approximate the value function via a trial-and-error learning process, but insufficiently address explicit planning computation as in the conventional model-based approaches. We proposed Universal Value Iteration Networks (UVIN) to combine model-free learning and model-based planning in common RL setting to improve long-term reasoning and inference.
+
+<div style="float:left;border:solid 1px 000;margin:20px;"><img src="images/minecraft.gif" height="100"></div>
+<div style="float:left;border:solid 1px 000;margin:20px;"><img src="images/maze.png" height="100"></div>
+<div style="float:none;clear:both;"></div>
+
+[Minecraft](https://www.minecraft.net) is a popular sandbox video game that allows players to explore, gather, and craft in a 3D world. To collect the desired items in the inventory, players need to plan whether to search for or synthesize a new item, and how. Thus, Minecraft is a typical problem requiring long-term reasoning. UVIN significantly outperforms other state-of-the-art approaches ([GPPN](https://arxiv.org/abs/1806.06408), [GVIN](https://arxiv.org/abs/1706.02416), [VIN](https://arxiv.org/abs/1602.02867), [Rainbow](https://arxiv.org/abs/1710.02298)) in Minecraft and some variants of maze navigation we introduced. UVIN has been accepted as a conference [paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangL.10191.pdf) by AAAI-2020.
+
+##### **ADRQN: On Improving Deep Reinforcement Learning for POMDPs**
+_Key people: Pengfei Zhu_
+
+Most of Deep Reinforcement Learning (DRL) methods focus on Markov Decision Process (MDP). Partially Observable Markov Decision Process (POMDP) is an extension of MDP, it can naturally model planning tasks with uncertain action effects and partial state observability, but finding an optimal policy is notoriously difficult. Inspired by belief state update based on Bayes’ theorem, we proposed Action-specific Deep Recurrent Q-Network (ADRQN) to improve DRL in POMDP. 
+
+<div style="float:left;border:solid 1px 000;margin:20px;"><img src="images/atari.gif" height="100"></div>
+<div style="float:left;border:solid 1px 000;margin:20px;"><img src="images/doom.gif" height="100"></div>
+<div style="float:none;clear:both;"></div>
+
+[Atari 2600](https://en.wikipedia.org/wiki/Atari_2600) is a classical video game set and is used as benchmark tasks in many DRL research. We evaluated ADRQN in a flickering version of Atari, which obscuring the entire screen with a certain probability at each time step. Further more, a 3D video game [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) is also used to evaluate our model. ADRQN achieves better performance than baseline methods ([DQN](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf), [DRQN](https://arxiv.org/abs/1507.06527), [DDRQN](https://arxiv.org/abs/1602.02672)) in flickering Atari and Doom. The citations of [ADRQN paper](https://arxiv.org/pdf/1704.07978.pdf) are up to 30 now.
 
 ##### **Inverse Reinforcement Learning**
 
