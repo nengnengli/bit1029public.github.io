@@ -68,6 +68,17 @@ _Key people: Jie Huang_
 
 <img src="/images/projects/dogbot2.jpg" style="zoom:57%;" />
 
+##### **UQMDP-net**
+_Key people: Shuqi Yang_
+
+<p style="text-align:justify;">Model-free DRL algorithms usually lack explicit planning computation and their generalization capabilities are insufficient. In addition, many DRL algorithms only focus on Markov Decision Process, thus lacking consideration of Partially Observable Markov Decision Process (POMDP).</p>
+
+<p style="text-align:justify;">This work tried to improve the existing DRL algorithm from the aspects of planning computation and partial observation, and thus proposed a new algorithm named UQMDP-net. The planning module of UQMDP-net improved the algorithm’s performance in tasks requiring complex long-term reasoning, while the use of the Bayesian module helped the algorithm to better solve the POMDP tasks. Inspired by the UVIN, we use "Dynamics Set" and "Shared Probability Set" to fit the state transition model of POMDP tasks, which expands the applicability of the algorithm.</p>
+
+<p style="text-align:justify;">We have designed two types of maze navigation tasks (spatially-invariant POMDPs, spatially-variant POMDPs) to evaluate the UQMDP-net. the UQMDP-net achieved similar performance to the baseline method (QMDP-net) on spatially-invariant tasks, and performed significantly better than baseline on spatially-variant tasks.</p>
+
+<img src="/images/uqmdp.png" />
+
 ---
 
 ##### Compositional generalization in minds and machines
