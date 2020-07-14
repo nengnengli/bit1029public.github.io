@@ -13,11 +13,14 @@ collectionpage: pages
 }
 </style>
 
+<!---
 Read about our current projects on
 [Inverse Reinforcement Learning](#Inverse Reinforcement Learning),
 ,
 
 and ....
+--->
+
 
 ---
 
