@@ -64,6 +64,6 @@ collectionpage: pages
 
 **Ivor W Tsang**. ARC Future Fellow, Professor of Artificial Intelligence, University of Technology Sydney(UTS), Australia. [[Website]](https://www.uts.edu.au/staff/ivor.tsang)
 
-**Mingzhong Wang**. Lecturer in ICT （Faculty of Arts and Business)，University of the Sunshine Coast, Australia. [Website]]（https://www.usc.edu.au/staff/dr-mingzhong-wang） 
+**Mingzhong Wang**. Lecturer in ICT （Faculty of Arts and Business)，University of the Sunshine Coast, Australia. [[Website]]（https://www.usc.edu.au/staff/dr-mingzhong-wang） 
 
 **Our DRL group is also working with renowned company's AI group towards more real-world applications, e.g., 育碧 UbiSoft(China), 达闼 CloudMinds(Shenzhen)**. 
