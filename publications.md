@@ -6,7 +6,7 @@ collectionpage: pages
 
 <br>
 
-#### (Deep) Reiforcement Learning
+#### (Deep) Reinforcement Learning
 
 <br>
 
