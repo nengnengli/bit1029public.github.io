@@ -6,7 +6,7 @@ collectionpage: pages
 
 <style type="text/css">
 .bio{
-  display: block;
+ 
   margin-right: 20px;
   float: left;
   width: 150px;
