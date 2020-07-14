@@ -21,6 +21,9 @@ and ....
 
 ---
 
+##### **Rabbids AI**
+test
+
 ##### **Inverse Reinforcement Learning**
 
 _Key people: Jie Huang_
