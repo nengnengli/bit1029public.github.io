@@ -3,7 +3,7 @@ title: Join us
 layout: page
 collectionpage: pages
 ---
-Interested in joining the 1029DRL Group to work with us? Interested candidates can apply through the links below.
+Interested in joining the 1029DRL Group to work with us? Interested candidates can apply through the links below.(如果你对我们组DRL之外的其他研究方向感兴趣，也欢迎联系我们)
 
 ##### Postdoctoral researchers
 - Pending ....
