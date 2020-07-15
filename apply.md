@@ -12,7 +12,9 @@ The students are much prefered with the following skills/experiences:
 
 - Good knowledge of deep learning (e.g., CNN, RNN, LSTM); or
 
-- Hands on experience with deep learning libraries (pytorch, tensorflow, etc.).
+- Hands on experience with deep learning libraries (pytorch, tensorflow, etc.); or
+
+- Programming contest prize (ACM/ICPC, CCPC, 蓝桥杯)
 
 ##### Postdoctoral researchers
 - Pending ....
