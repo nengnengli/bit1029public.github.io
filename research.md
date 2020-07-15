@@ -68,6 +68,7 @@ _Key people: Jie Huang_
 <p style="text-align:justify;">Our work aims to utilize the inverse reinforcement learning algorithm or the imitation learning algorithm to solve related complex tasks, and apply the policy learned from the simulation environment to the robotics. The robot/agent is expected to learn from the training set demonstrated by the experts and achieves/exceeds the expert performance. </p>
 
 <img src="/images/projects/dogbot.jpg" width="264"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/projects/dogbot2.png" width="258"/>
-
+<div style="float:left;border:solid 1px 000;margin:20px;text-align:center"><img src="/images/minecraft.gif"><br><em>Performance on Minecraft</em></div>
+<div style="float:left;border:solid 1px 000;margin:20px;text-align:center"><img src="/images/maze.png"><br><em>Spatially-variant maze</em></div>
 
 
