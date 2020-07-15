@@ -6,7 +6,7 @@ collectionpage: pages
 Interested in joining the 1029DRL Group to work with us? Interested candidates can apply through the links below.
 The students are much prefered with the following skills/experiences:  
 
-- Proactive/self-motivated attitude; or
+- Proactive/self-motivated attitude; and
 
 - Good knowledge of machine learning, statistic; or 
 
