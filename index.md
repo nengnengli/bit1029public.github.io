@@ -1,6 +1,6 @@
 ---
-title: Home
-feature_text: |
+#title: Home
+#feature_text: |
 layout: page
 collectionpage: home
 ---
