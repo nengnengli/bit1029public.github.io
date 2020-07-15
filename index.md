@@ -1,5 +1,6 @@
 ---
-# title:Deep Reinforcement Learning 
+title: Home
+feature_text: |
 layout: page
 collectionpage: home
 ---
