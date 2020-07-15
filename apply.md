@@ -10,9 +10,9 @@ The students are much prefered with the following skills/experiences:
 
 - Good knowledge of machine learning, statistic; or 
 
-- Good knowledge or Hands on experience with deep learning (e.g., CNN, RNN, LSTM); or
+- Good knowledge of deep learning (e.g., CNN, RNN, LSTM); or
 
-- Experience with deep learning libraries (pytorch, tensorflow, etc.).
+- Hands on experience with deep learning libraries (pytorch, tensorflow, etc.).
 
 ##### Postdoctoral researchers
 - Pending ....
