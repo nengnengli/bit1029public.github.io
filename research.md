@@ -69,7 +69,7 @@ _Key people: Jie Huang_
 
 <img src="/images/projects/dogbot.jpg" width="264"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/projects/dogbot2.png" width="258">
 <tr>
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <td align="justify">Robot Dog</td>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
