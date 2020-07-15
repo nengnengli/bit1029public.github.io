@@ -6,11 +6,11 @@ collectionpage: pages
 Interested in joining the 1029DRL Group to work with us? Interested candidates can apply through the links below.
 The students are much prefered with the following skills/experiences:  
 
-- Proactive/self-motivated attitued; OR
+- Proactive/self-motivated attitude; or
 
-- Good knowledge of machine learning, statistic;
+- Good knowledge of machine learning, statistic; or 
 
-- Good knowledge or Hands on experience with deep learning (e.g., CNN, RNN, LSTM).
+- Good knowledge or Hands on experience with deep learning (e.g., CNN, RNN, LSTM); or
 
 - Experience with deep learning libraries (pytorch, tensorflow, etc.).
 
