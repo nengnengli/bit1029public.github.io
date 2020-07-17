@@ -69,4 +69,4 @@ collectionpage: pages
 
 <p style="text-align:justify;"><strong>Mingzhong Wang</strong>. Lecturer in ICT （Faculty of Arts and Business)，University of the Sunshine Coast, Australia. <a href="https://www.usc.edu.au/staff/dr-mingzhong-wang">[Website]</a></p>
 
-**Our DRL group is also working with renowned company's AI group towards more real-world applications, e.g., 育碧 UbiSoft(China), 达闼 CloudMinds(Shenzhen)**. 
+**Our DRL group is also working with renowned company's AI group towards more real-world applications, e.g., 育碧 Ubisoft(China), 达闼 CloudMinds(Shenzhen)**. 
